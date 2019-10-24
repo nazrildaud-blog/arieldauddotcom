@@ -1,0 +1,38 @@
+{
+  "name": "Ariel Daud",
+  "short_name": "ArielDaud",
+  "start_url": "https://www.arieldaud.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#3E71D9",
+  "description": "Kumpulan Tips dan trik, Informasi Terbaru, Informasi tentang Teknologi, Kesehatan, Olahraga, dan Tutorial tentang Blogger",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-ebC5-o0N0Lg/XbFpKaO4F8I/AAAAAAAAEpo/r5aKCM0vCLULdaFUjfDNIia7zJGkS347gCLcBGAsYHQ/s48/arieldaud.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ebC5-o0N0Lg/XbFpKaO4F8I/AAAAAAAAEpo/r5aKCM0vCLULdaFUjfDNIia7zJGkS347gCLcBGAsYHQ/s72/arieldaud.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ebC5-o0N0Lg/XbFpKaO4F8I/AAAAAAAAEpo/r5aKCM0vCLULdaFUjfDNIia7zJGkS347gCLcBGAsYHQ/s96/arieldaud.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ebC5-o0N0Lg/XbFpKaO4F8I/AAAAAAAAEpo/r5aKCM0vCLULdaFUjfDNIia7zJGkS347gCLcBGAsYHQ/s144/arieldaud.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ebC5-o0N0Lg/XbFpKaO4F8I/AAAAAAAAEpo/r5aKCM0vCLULdaFUjfDNIia7zJGkS347gCLcBGAsYHQ/s168/arieldaud.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ebC5-o0N0Lg/XbFpKaO4F8I/AAAAAAAAEpo/r5aKCM0vCLULdaFUjfDNIia7zJGkS347gCLcBGAsYHQ/s192/arieldaud.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ebC5-o0N0Lg/XbFpKaO4F8I/AAAAAAAAEpo/r5aKCM0vCLULdaFUjfDNIia7zJGkS347gCLcBGAsYHQ/s512/arieldaud.png,
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
